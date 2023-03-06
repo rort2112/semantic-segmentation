@@ -1,4 +1,4 @@
-Apply the following steps on the cell painted dataset
+Apply the following steps on the cell painted dataset (link to the dataset has been provided in the paper)
 
 Step1: Create the train data set and labelled train dataset folder
 Step2: Create the test data set and labelled test dataset folder
