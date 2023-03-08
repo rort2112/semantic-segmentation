@@ -1,4 +1,4 @@
-Load train dataset into image directory
+%% Load train dataset into image directory
 
 imDir = fullfile('datafolder1');
 
